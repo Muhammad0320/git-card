@@ -35,7 +35,7 @@
   
   .card {
     grid-column: 1 / 2;
-    background-image: url("/bg-main-desktop.png");
+    background-image: url("bg-main-desktop.png");
     background-size: cover; 
   
   
@@ -47,7 +47,7 @@
       flex-direction: column;
       justify-content: space-between;
       align-items: stretch;
-      background-image: url("/bg-card-front.png");
+      background-image: url("bg-card-front.png");
       border-radius: .6rem;
       background-size: cover;
       transform: translate(8rem, 12rem);
